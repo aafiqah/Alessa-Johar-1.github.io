@@ -1,2 +1,2 @@
-# alessajohar.github.io
+# aafiqah.github.io
 Portfolio Website using GitHub Theme
