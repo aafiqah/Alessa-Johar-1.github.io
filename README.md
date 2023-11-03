@@ -1,7 +1,5 @@
 # Alessa Afiqah Johar
-## Computer Forensic Graduate
 
-### Contact
 - Location: Kelantan, Malaysia
 - Email: alessajohar@gmail.com
 - LinkedIn: [linkedin.com/alessaafiqahjohar](https://www.linkedin.com/in/alessaafiqahjohar)
