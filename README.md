@@ -22,7 +22,7 @@
 - Inspected and set up around 130 computers, and 50 computer peripherals in 3 months for customers and staff by installing Windows, drivers, and essential software
 
 ## University Projects
-**Advanced Medicine Halal Verification Application (_Oct 2020 – Jun 2021_)**
+**[Advanced Medicine Halal Verification Application (_Oct 2020 – Jun 2021_)](./medicine-halal-page.html).**
 - Developed and launched a highly functional medicine halal verification Android application within 9 months independently, leveraging Java, Firebase, and MySQL
 - Enabled users to easily detect halal medicine, access registration status, and report any issues, fostering a safer and more transparent healthcare environments
 
