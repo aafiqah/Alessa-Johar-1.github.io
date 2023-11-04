@@ -47,7 +47,7 @@
 - Organized and actively contributed to a highly successful community service event, 'ISC Community Service," educating participants on effective tree planting techniques, and empowering individuals to make a positive environmental impact
 - Collaborated with fellow committee members to promote the activity called “Cyber Forensics Mastermind”, a knowledge-based quiz competition aimed at enhancing participant's understanding of cyber forensic
 
-### Certificates
+## Certificates
 - Beginner Full-Stack Web Development, Udemy (in progress)
 - Forensic Web Reconstruction Training, Cybersecurity Malaysia (09/2021)
 - Celcom Siswapreneur @ Google Bootcamp 2020, Celcom Axiata Berhad (10/2020)
