@@ -1,10 +1,3 @@
-# Alessa Afiqah Johar
-
-- Location: Kelantan, Malaysia
-- Email: alessajohar@gmail.com
-- LinkedIn: [linkedin.com/alessaafiqahjohar](https://www.linkedin.com/in/alessaafiqahjohar)
-- Github: [github.com/aafiqah](https://github.com/aafiqah)
-
 ### Education
 **Management And Science University**, Shah Alam, Selangor
 - Bachelor of Computer Forensic
