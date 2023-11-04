@@ -1,15 +1,14 @@
 title: Alessa Afiqah Johar
 logo: "/aafiqah.png"
 description: >
-  <br>
-  Mobile Developer
-  <br>
+  <br />Mobile Developer
 theme: jekyll-theme-minimal 
 description: >
-  <br>
+  <br/>
   <a href="mailto:alessajohar@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  <br/>
   <a href="https://www.linkedin.com/in/alessaafiqahjohar/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
