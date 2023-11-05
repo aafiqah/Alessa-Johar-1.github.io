@@ -2,7 +2,7 @@ title: Alessa Afiqah
 logo: "/assets/aafiqah.png"
 description: >
   <h2>Mobile Developer<h2>
-  <a class="nav" href="{{ "/" | absolute_url }}">About</a>
+  <a class="nav" href="https://aafiqah.github.io/">About</a>
   <br/><a class="nav" href="./experience-page.html">Work Experience</a>
   <br/><a class="nav" href="./projects-page.html">University Projects</a>
   <br/><br/><a class="contact" href="mailto:alessajohar@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
