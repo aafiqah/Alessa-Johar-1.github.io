@@ -9,7 +9,7 @@ body {
   font-weight: 400;
 }
 
-h1, h2, h3 {
+h1, h2, h3, h4, h5, h6 {
   color: #7030A0; /* Primary Color (Purple) */
   margin: 0 0 20px;
 }
@@ -18,7 +18,7 @@ p, ul, ol, table, pre, dl {
   margin: 0 0 20px;
 }
 
-h1, h2, h3 {
+h1, h3 {
   line-height: 1.1;
 }
 
@@ -28,6 +28,7 @@ h1 {
 
 h2 {
   color: #7030A0 ; /* Secondary Color (Light Gray) */
+  line-height: 0.8;
 }
 
 h4, h5, h6 {
