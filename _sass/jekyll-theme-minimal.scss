@@ -57,31 +57,16 @@ p:hover small {
 
 .contact{
   line-height: 1.4;
+  box-shadow: inset 0 0 0 0 #54b3d6;
+  color: #7030A0;
+  margin: 0 -.25rem;
+  padding: 0 .25rem;
+  transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
 }
 
-.contact span {
-  cursor: pointer;
-  display: inline-block;
-  position: relative;
-  transition: 0.5s;
-}
-
-.contact span:after {
-  content: '\00bb';
-  position: absolute;
-  opacity: 0;
-  top: 0;
-  right: -20px;
-  transition: 0.5s;
-}
-
-.contact:hover span {
-  padding-right: 25px;
-}
-
-.contact:hover span:after {
-  opacity: 1;
-  right: 0;
+.contact:hover {
+  box-shadow: inset 100px 0 0 0 #54b3d6;
+  color: white;
 }
 
 .wrapper {
