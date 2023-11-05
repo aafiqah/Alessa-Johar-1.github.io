@@ -6,7 +6,7 @@
 
 ### Technologies I've Worked With
 | Languages | Devops | Tools |
-| ------ | ------ | ------ |
+|:------ |:------ |:------ |
 | Java | Git    | Android Studio |
 | Dart | GitHub | PyCharm |
 | Python | &nbsp; | VS Code |
@@ -14,10 +14,12 @@
 | CSS | &nbsp; | Figma |
 | MySQL | &nbsp; | Adobe XD |
 
-| head1         | head two          | three |
-|:------------- |:----------------- |:----- |
-| ok            | good swedish fish | nice  |
-| out of stock  | good and plenty   | nice  |
-| ok            | good `oreos`      | hmm   |
-| ok            | good `zoute` drop | yumm  |
+| Languages     | head two      | three          |
+|:------------- |:------------- |:-------------  |
+| Java          | Git           | Android Studio |
+| Dart          | GitHub        | PyCharm        |
+| Python        | &nbsp;        | VS Code        |
+| HTML          | &nbsp;        | NetBeans       |
+| CSS           | &nbsp;        | Figma          |
+| MySQL         | &nbsp;        | Adobe XD       |
 
