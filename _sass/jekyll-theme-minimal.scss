@@ -59,6 +59,31 @@ p:hover small {
   line-height: 1.4;
 }
 
+.contact span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.contact span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.contact:hover span {
+  padding-right: 25px;
+}
+
+.contact:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
 .wrapper {
   width: 980px;
   margin: 0 auto;
