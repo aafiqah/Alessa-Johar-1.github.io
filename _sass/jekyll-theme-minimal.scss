@@ -3,7 +3,7 @@
 
 body {
   background-color: #ece7fd; /* Background Color */
-  padding:50px 80px 50px;
+  padding:50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #333333; /* Text Color */
   font-weight: 400;
@@ -235,6 +235,7 @@ section {
   width:680px;
   float:right;
   padding-bottom:50px;
+  margin-right:50px;
 }
 
 small {
