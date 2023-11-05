@@ -8,8 +8,9 @@
 | Languages | Devops | Tools          |
 |:----------|:-------|:---------------|
 | Java      | Git    | Android Studio |
-| Dart      | GitHub | Pycharm        |
-| Python    |        | VS Code        |
-| HTML      |        | NetBeans       |
-| CSS       |        | Figma          |
-| MySQL     |        | Adobe XD       |
+| Dart      | GitHub | PyCharm        |
+| Python    |       | VS Code        |
+| HTML      |       | NetBeans       |
+| CSS       |       | Figma          |
+| MySQL     |       | Adobe XD       |
+
