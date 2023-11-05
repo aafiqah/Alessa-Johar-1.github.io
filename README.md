@@ -6,7 +6,7 @@
 
 ### Technologies I've Worked With
 
-| Languages     | Devops       | Tools           |
+| Languages     | Devops        | Tools          |
 |:------------- |:------------- |:-------------  |
 | Java          | Git           | Android Studio |
 | Dart          | GitHub        | PyCharm        |
