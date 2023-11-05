@@ -15,3 +15,12 @@
 | CSS           | &nbsp;        | Figma          |
 | MySQL         | &nbsp;        | Adobe XD       |
 
+
+| Languages  | Devops | Tools          |
+|:---------- |:------ |:-------------  |
+| Java       | Git    | Android Studio |
+| Dart       | GitHub | PyCharm        |
+| Python     | &nbsp; | VS Code        |
+| HTML       | &nbsp; | NetBeans       |
+| CSS        | &nbsp; | Figma          |
+| MySQL      | &nbsp; | Adobe XD       |
