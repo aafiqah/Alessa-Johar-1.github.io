@@ -57,14 +57,18 @@ p:hover small {
   color: #000000;
 }
 
-.contact{
+.nav{
   line-height: 1.4;
   transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
 }
 
-.contact:hover {
+.nav:hover {
   box-shadow: inset 100px 100px 100px 100px #7030A0;
   color: white;
+}
+
+.contact{
+  line-height: 1.0;
 }
 
 .wrapper {
