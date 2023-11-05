@@ -4,12 +4,12 @@
 
 *Throughout my university years, I undertook several impactful projects by creating various development including desktop & android application. After having a Bachelor's in Computer Forensic, I've decided to take the leap to pursue a career in Mobile Developer. I love to learn new technologies and flex my creativity to create amazing things.*
 
-## Technologies I've Worked With
-| Languages  | Devops    | Tools          |
-| :--------: | :-------: | :------------: |
-| Java       | Git       | Android Studio |
-| Dart       | GitHub    | Pycharm        |
-| Python     |           | VS Code        |
-| HTML       |           | NetBeans       |
-| CSS        |           | Figma          |
-| MySQL      |           | Adobe XD       |
+###### Technologies I've Worked With
+| Languages    | Devops            | Tools          |
+|:-------------|:------------------|:---------------|
+| Java         | Git               | Android Studio |
+| Dart         | GitHub            | Pycharm        |
+| Python       |                   | VS Code        |
+| HTML         |                   | NetBeans       |
+| CSS          |                   | Figma          |
+| MySQL        |                   | Adobe XD       |
