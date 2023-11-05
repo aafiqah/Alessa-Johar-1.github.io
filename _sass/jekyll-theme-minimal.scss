@@ -3,10 +3,7 @@
 
 body {
   background-color: #ece7fd; /* Background Color */
-  padding-top: 70px;
-  padding-bottom:70px;
-  padding-left:70px;
-  padding-right:50px;
+  padding: 50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #333333; /* Text Color */
   font-weight: 400;
@@ -104,7 +101,7 @@ th {
 }
 
 img {
-  max-width: 100%;
+  max-width: 80%;
 }
 
 kbd {
@@ -122,7 +119,7 @@ kbd {
 }
 
 header {
-  width: 250px;
+  width: 300px;
   float: left;
   position: fixed;
   -webkit-font-smoothing: subpixel-antialiased;
