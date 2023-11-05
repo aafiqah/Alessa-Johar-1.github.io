@@ -4,13 +4,13 @@ Hi! My name is Alessa and I enjoy creating things that live on the internet. My 
 
 Throughout my university years, I undertook several impactful projects by creating various development including desktop & android application. After having a Bachelor's in Computer Forensic, I've decided to take the leap to pursue a career in Mobile Developer. I love to learn new technologies and flex my creativity to create amazing things. Besides my passion for coding, I love to travel, photography, and editing video.
 
-### Technologies I've Worked With
 
+
+### Technologies I've Worked With
 
 | Languages     | Devops        |
 |:------------- |:------------- |
 | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
-
 
 | Tools         |
 |:------------- |
