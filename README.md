@@ -1,8 +1,24 @@
-## Education
-**Bachelor of Computer Forensic | Management And Science University (_Dec 2022_)**
-- CGPA: 3.81, Dean’s List 2020 - 2021
-- Relevant Coursework: Network and Data Security, Operating Systems, Programming for Mobile Devices, Digital Image Processing
+# Welcome
 
-**Diploma of Computer Forensic | Management And Science University (_Feb 2020_)**
-- CGPA: 3.51, Dean’s List 2018
-- Relevant Coursework: Algorithm and Data Structure, Cyber Law, Data Communication and Network, System Analysis and Design, Object Oriented Programming, Fundamentals to Database
+Hi! My name is Alessa and I enjoy creating things that live on the internet. My interest in mobile development started back in 2020 when I having assignment for Programming for Mobile subject by creating android application — turns out hacking together an android development taught me a lot about Android & Flutter! 
+Throughout my university years, I undertook several impactful projects by creating various development including desktop & android application. After having a Bachelor's in Computer Forensic, I've decided to take the leap to pursue a career in Mobile Developer.  I love to learn new technologies and flex my creativity to create amazing things.
+
+## Technologies I've Worked With
+**Languages**
+- Java
+- Python
+- HTML
+- CSS
+- MySQL
+ 
+**Devops**
+- Git
+- GitHub
+
+**Tools**
+- Android Studio
+- PyCharm
+- VS Code
+- NetBeans
+- Figma
+- Adobe XD
