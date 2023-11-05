@@ -166,6 +166,7 @@ header {
   -webkit-font-smoothing: subpixel-antialiased;
 }
 
+
 ul.downloads {
   list-style:none;
   height:40px;
@@ -179,7 +180,7 @@ ul.downloads {
 .downloads li {
   width:89px;
   float:left;
-  border-right:1px solid #e0e0e0;
+  border-right:1px solid #000000;
   height:40px;
 }
 
@@ -207,7 +208,7 @@ ul.downloads {
 }
 
 .downloads ul a:active {
-  background-color:#f0f0f0;
+  background-color:#000000;
 }
 
 strong {
