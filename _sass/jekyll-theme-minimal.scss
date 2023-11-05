@@ -124,12 +124,13 @@ pre {
 table {
   width: 100%;
   border-collapse: collapse;
+  border:1px solid #000000;
 }
 
 th, td {
   text-align: left;
   padding: 5px 10px;
-  border-bottom: 1px solid #e5e5e5;
+  //border-bottom: 1px solid #e5e5e5;
 }
 
 dt {
@@ -137,9 +138,9 @@ dt {
   font-weight: 700;
 }
 
-th {
+/*th {
   color: #000000;
-}
+}*/
 
 img {
   max-width: 75%;
@@ -164,10 +165,6 @@ header {
   float: left;
   position: fixed;
   -webkit-font-smoothing: subpixel-antialiased;
-}
-
-ul, li{
-  border: 1px solid #000000;
 }
 
 ul.downloads {
