@@ -1,11 +1,12 @@
 title: Alessa Afiqah 
+logo: "/assets/aafiqah.png"
 description: >
   <h2>Mobile Developer<h2>
-  <br/><a class="contact" href="./readme.html">About</a>
-  <br/><a class="contact" href="./experience-page.html">Work Experience</a>
-  <br/><a class="contact" href="./projects-page.html">University Projects</a>
-  <br/><br/><a href="mailto:alessajohar@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/alessaafiqahjohar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/aafiqah"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://drive.google.com/file/d/1mwLTdp_cGu5bet8jxAFmdwYj1Y7jQzzG/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4EA94B?style=for-the-badge&logo=About.me&logoColor=white"></a>
+  <br/><a class="nav" href="./readme.html">About</a>
+  <br/><a class="nav" href="./experience-page.html">Work Experience</a>
+  <br/><a class="nav" href="./projects-page.html">University Projects</a>
+  <br/><br/><a class="contact" href="mailto:alessajohar@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a class="contact" href="https://www.linkedin.com/in/alessaafiqahjohar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a class="contact" href="https://github.com/aafiqah"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a class="contact" href="https://drive.google.com/file/d/1mwLTdp_cGu5bet8jxAFmdwYj1Y7jQzzG/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4EA94B?style=for-the-badge&logo=About.me&logoColor=white"></a>
 theme: jekyll-theme-minimal
