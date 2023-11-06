@@ -1,4 +1,4 @@
-### Welcome
+# Welcome
 
 Hi! My name is Alessa and I enjoy creating things that live on the internet. My interest in mobile development started back in 2020 when I having assignment for Programming for Mobile subject by creating android application — turns out hacking together an android development taught me a lot about Android & Flutter!
 
@@ -6,7 +6,7 @@ Throughout my university years, I undertook several impactful projects by creati
 
 
 
-##### Technologies I've Worked With
+### Technologies I've Worked With
 
 | Languages     | Devops        |
 |:------------- |:------------- |
