@@ -1,9 +1,7 @@
----
-layout: default
----
+# Some Things I've Built 
 
-## Welcome to another page
+| Languages     | Advanced Medicine Halal Verification Application        |
 
-_yay_
+| Languages     | Face Mask Detection and Alert Message Syatem        |
 
-[back](./)
+| Languages     | Class Attendance using Face Recognition System        |
