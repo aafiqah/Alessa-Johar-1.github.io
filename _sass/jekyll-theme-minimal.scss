@@ -92,7 +92,7 @@ p:hover small {
   }
 }
 
-.nav{
+/*.nav{
   line-height: 1.4;
   transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
   padding: 2px;
@@ -101,6 +101,46 @@ p:hover small {
 .nav:hover {
   box-shadow: inset 100px 100px 100px 100px #7030A0; //box purple
   color: white; //text white
+}*/
+
+.nav {
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #ece7fd;
+  border: none;
+  color: #7030A0;
+  text-align: center;
+  font-size: 18px;
+  padding: 4px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.nav span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.nav span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.nav:hover span {
+  padding-right: 25px;
+}
+
+.nav:hover span:after {
+  opacity: 1;
+  right: 0;
 }
 
 .contact{
