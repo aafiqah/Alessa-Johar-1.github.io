@@ -3,9 +3,9 @@ logo: "/assets/aafiqah.png"
 description: >
   <h2 class="titlecenter">Mobile Developer<h2>
   <center><a class="nav" href="https://aafiqah.github.io/"><span>About</span></a></center>
-  <br/><center><a class="nav" href="./projects-page.html"><span>University&nbspProjects</span></a></center>
-  <br/><center><a class="nav" href="/assets/AlessaAfiqahJoharResume.pdf"><span>Resume</span></a></center>
-  <br/><br/><a class="contact" href="mailto:alessajohar@gmail.com"><center><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <center><a class="nav" href="./projects-page.html"><span>University&nbspProjects</span></a></center>
+  <center><a class="nav" href="/assets/AlessaAfiqahJoharResume.pdf"><span>Resume</span></a></center>
+  <a class="contact" href="mailto:alessajohar@gmail.com"><center><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a class="contact" href="https://www.linkedin.com/in/alessaafiqahjohar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a class="contact" href="https://github.com/aafiqah"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></center></a>
 theme: jekyll-theme-minimal
