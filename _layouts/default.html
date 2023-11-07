@@ -16,7 +16,12 @@
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}" class="animated">{{ site.title | default: site.github.repository_name }}</a></h1>
-        <br/>{% if site.logo %}<img src="{{site.logo | relative_url}}" alt="Logo" class="imglogo"/>{% endif %}
+        <br/>
+        <div class="imglogo">
+          {% if site.logo %}
+          <img src="{{site.logo | relative_url}}" alt="Logo"/>
+          {% endif %}
+        </div>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         <p class="small"><small>Designed & Built by Alessa Johar</small></p>
       </header>
