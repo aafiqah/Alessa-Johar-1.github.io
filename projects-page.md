@@ -1,5 +1,6 @@
 # Some Things I've Built 
 
+
 ## 1. Medicine Halal App 
 
 ![Medicine Halal App](/assets/medicinenhalal1.png)
@@ -7,7 +8,10 @@
 *Medicine Halal or known as Advanced Medicine Halal Verification is a cross-platform mobile application that allows users to easily detect halal medicine, access registration status, and report any issues, fostering a safer and more transparent healthcare environment. This app was created in 9 months independently for a bachelor final year project (fyp).*
 > Technologies: Java, MySQL, Firebase, Android Studio.
 
-[![GitHub](https://img.shields.io/badge/View%20Code-7030A0.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aafiqah/advanced_medicine_halal) ![Play Store](https://img.shields.io/badge/Try%20Demo-7030A0?style=for-the-badge&logo=google-play&logoColor=white) ![Video](https://img.shields.io/badge/Video-7030A0.svg?style=for-the-badge&logo=YouTube&logoColor=white).
+[![GitHub](https://img.shields.io/badge/View%20Code-7030A0.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aafiqah/advanced_medicine_halal) ![Play Store](https://img.shields.io/badge/Try%20Demo-7030A0?style=for-the-badge&logo=google-play&logoColor=white) 
+
+![Video](https://img.shields.io/badge/Watch%20Presentation-7030A0.svg?style=for-the-badge&logo=YouTube&logoColor=white).
+
 
 ## 2. Face Mask Detection and Alert Message System 
 
