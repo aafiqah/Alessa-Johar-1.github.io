@@ -38,10 +38,6 @@ h2 {
   font-size: 18px;
 }
 
-.titlecenter{
-  text-align: center;
-}
-
 h3{
   font-size: 16px;
 }
@@ -127,6 +123,7 @@ p:hover small {
   display: inline-block;
   position: relative;
   transition: 0.5s;
+  color: #7030A0;
 }
 
 .nav span:after {
@@ -136,7 +133,6 @@ p:hover small {
   top: 0;
   right: -20px;
   transition: 0.5s;
-  color: #7030A0;
 }
 
 .nav:hover span {
