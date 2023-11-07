@@ -1,10 +1,10 @@
 # Some Things I've Built 
 
-## 1. Advanced Medicine Halal Verification Application 
+## 1. Medicine Halal App 
 
-![Advanced Medicine Halal App](https://placebear.com/300/300)
+![Medicine Halal App](https://placebear.com/300/300)
  
-*Advanced Medicine Halal Verification is a cross-platform mobile application that allows users to easily detect halal medicine, access registration status, and report any issues, fostering a safer and more transparent healthcare environment. This app was created in 9 months independently for a bachelor final year project (fyp).*
+*Medicine Halal or known as Advanced Medicine Halal Verification is a cross-platform mobile application that allows users to easily detect halal medicine, access registration status, and report any issues, fostering a safer and more transparent healthcare environment. This app was created in 9 months independently for a bachelor final year project (fyp).*
 > Technologies: Java, MySQL, Firebase, Android Studio.
 
 ![GitHub](https://img.shields.io/badge/View%20Code-7030A0.svg?style=for-the-badge&logo=github&logoColor=white)  ![Play Store](https://img.shields.io/badge/Try%20Demo-7030A0?style=for-the-badge&logo=google-play&logoColor=white)
