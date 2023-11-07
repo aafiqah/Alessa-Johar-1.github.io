@@ -7,8 +7,7 @@
 *Advanced Medicine Halal Verification is a cross-platform mobile application that allows users to easily detect halal medicine, access registration status, and report any issues, fostering a safer and more transparent healthcare environment. This app was created in 9 months independently for a bachelor final year project (fyp).*
 > Technologies: Java, MySQL, Firebase, Android Studio.
 
-![GitHub](https://img.shields.io/badge/View%20Code-white?style=for-the-badge&logo=codepen&logoColor=blacke)  ![Play Store](https://img.shields.io/badge/Try%20Demo-white?style=for-the-badge&logo=codepen&logoColor=black)
-
+![GitHub](https://img.shields.io/badge/View%20Code-7030A0.svg?style=for-the-badge&logo=github&logoColor=white)  ![Play Store](https://img.shields.io/badge/Try%20Demo-414141?style=for-the-badge&logo=google-play&logoColor=white)
 
 ## 2. Face Mask Detection and Alert Message System 
 
