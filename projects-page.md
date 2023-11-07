@@ -6,6 +6,7 @@
  
 *Advanced Medicine Halal Verification is a cross-platform mobile application that allows users to easily detect halal medicine, access registration status, and report any issues, fostering a safer and more transparent healthcare environment. This app was created in 9 months independently for a bachelor final year project (fyp).*
 > Technologies: Java, MySQL, Firebase, Android Studio
+![GitHub](https://img.shields.io/badge/View%20Code-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Fitbit](https://img.shields.io/badge/Try%20Demo-00B0B9?style=for-the-badge&logo=fitbit&logoColor=white)
 
 ## 2. Face Mask Detection and Alert Message System 
 
@@ -18,5 +19,5 @@
 
 ![Class Attendance System](https://placebear.com/300/300)
  
-*class attendance is a system that helps institutions manage student attendance leads to taking students’ attendance using face recognition techniques. Also, this system provides a sending notification of students’ attendance to their guardians through WhatsApp. Successfully designed and executed a class attendance system as an individual project in 4 months for a diploma final year project (fyp)*
+*Class attendance is a system that helps institutions manage student attendance leads to taking students’ attendance using face recognition techniques. Also, this system provides a sending notification of students’ attendance to their guardians through WhatsApp. Successfully designed and executed a class attendance system as an individual project in 4 months for a diploma final year project (fyp).*
 > Technologies: Java, MySQL, NetBeans, phpMyAdmin
