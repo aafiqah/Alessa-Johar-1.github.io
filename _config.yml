@@ -1,7 +1,7 @@
 title: Alessa Johar
 logo: "/assets/aafiqah.png"
 description: >
-  <h2>Mobile Developer<h2>
+  <h2 class:""titlecenter">Mobile Developer<h2>
   <a class="nav" href="https://aafiqah.github.io/"><span>About</span></a>
   <br/><a class="nav" href="./projects-page.html"><span>University Projects</span></a>
   <br/><a class="nav" href="/assets/AlessaAfiqahJoharResume.pdf"><span>Resume</span></a>
