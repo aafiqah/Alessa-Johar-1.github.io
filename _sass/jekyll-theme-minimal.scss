@@ -98,9 +98,18 @@ p:hover small {
   transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
 }
 
+.nav span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
 .nav:hover {
-  box-shadow: inset 100px 100px 100px 100px #7030A0;
-  color: white;
+  box-shadow: inset 100px 100px 100px 100px #7030A0; //box purple
+  color: white; //text white
 }
 
 .contact{
