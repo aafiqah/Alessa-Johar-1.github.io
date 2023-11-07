@@ -98,6 +98,12 @@ p:hover small {
   transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
 }
 
+.nav span {
+  cursor: pointer;
+  position: relative;
+  transition: 0.5s;
+}
+
 .nav span:after {
   content: '\00bb';
   position: absolute;
