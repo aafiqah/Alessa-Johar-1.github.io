@@ -9,6 +9,8 @@
 
 ![GitHub](https://img.shields.io/badge/View%20Code-7030A0.svg?style=for-the-badge&logo=github&logoColor=white)  ![Play Store](https://img.shields.io/badge/Try%20Demo-7030A0?style=for-the-badge&logo=google-play&logoColor=white)
 
+[![GitHub](https://img.shields.io/badge/View%20Code-7030A0.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aafiqah/advanced_medicine_halal)
+
 ## 2. Face Mask Detection and Alert Message System 
 
 ![Face Mask Detection System](https://placebear.com/300/300)
