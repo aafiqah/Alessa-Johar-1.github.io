@@ -2,7 +2,7 @@
 
 ## 1. Medicine Halal App 
 
-![Medicine Halal App](/assets/medicinenhalal1.png/300/300)
+![Medicine Halal App](/assets/medicinenhalal1.png)
  
 *Medicine Halal or known as Advanced Medicine Halal Verification is a cross-platform mobile application that allows users to easily detect halal medicine, access registration status, and report any issues, fostering a safer and more transparent healthcare environment. This app was created in 9 months independently for a bachelor final year project (fyp).*
 > Technologies: Java, MySQL, Firebase, Android Studio.
