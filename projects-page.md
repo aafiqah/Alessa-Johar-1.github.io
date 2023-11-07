@@ -11,3 +11,4 @@
 
 Technologies: `Java` `MySQL` `Firebase` `Android Studio`
 
+> Technologies: Java, MySQL, Firebase, Android Studio
