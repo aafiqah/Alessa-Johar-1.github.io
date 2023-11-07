@@ -94,14 +94,12 @@ p:hover small {
 }
 
 .nav{
-  position: relative;
   line-height: 1.4;
   transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
 }
 
 .nav:hover {
   content: '\00bb';
-  position: absolute;
   box-shadow: inset 100px 100px 100px 100px #7030A0; //box purple
   color: white; //text white
 }
