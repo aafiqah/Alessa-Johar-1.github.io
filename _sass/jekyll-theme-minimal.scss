@@ -94,12 +94,12 @@ p:hover small {
 }
 
 .nav{
+  white-space: nowrap; 
+  width: 50px; 
+  overflow: hidden; 
   line-height: 1.4;
   transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
-  white-space: nowrap; 
-  //width: 200px; 
-  overflow: hidden; 
-  padding: 10px;
+  padding: 2px;
 }
 
 .nav:hover {
