@@ -208,6 +208,8 @@ dt {
 .imglogo{
   max-width: 75%;
   width: auto;
+  display: grid;
+  place-items: center;
 }
 
 kbd {
