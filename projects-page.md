@@ -1,7 +1,9 @@
 # Some Things I've Built 
 
-## Advanced Medicine Halal Verification Application
-
+| Languages     | Advanced Medicine Halal Verification Application |
+| :------------ | :----------------------------------------------- | 
+| &nbsp         | Android aplication that enabled users to easily detect halal medicine, access registration status, and report any issues, fostering a safer and more transparent healthcare environment      |
+| &nbsp         | Java, Firebase, MySQL |
 
 | Languages     | Face Mask Detection and Alert Message Syatem        |
 
