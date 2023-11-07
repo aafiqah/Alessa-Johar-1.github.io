@@ -112,11 +112,19 @@ a small {
   color: white; //text white
 }*/
 
+.sidenav{
+	border-left: 2px solid #7030A0;
+  margin: 0;
+  font-style: italic;
+}
+
 .nav {
+  background-color: #ece7fd;
+  text-align: center; 
   display: inline-block;
   font-size: 18px;
-  padding: 4px;
-  width: 300px;
+  margin: 5px 20px;
+  width: 250px;
   transition: all 0.5s;
   cursor: pointer;
 }
@@ -140,11 +148,12 @@ a small {
 
 .nav:hover span {
   padding-right: 25px;
+     color: #7030A0; 
 }
 
 .nav:hover span:after {
   opacity: 1;
-  right: 0;
+  right: 0; 
 }
 
 .contact{
