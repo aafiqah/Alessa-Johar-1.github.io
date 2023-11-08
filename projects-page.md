@@ -12,7 +12,7 @@
 
 ## 2. Face Mask Detection and Alert Message System 
 
-![Face Mask Detection System](https://placebear.com/300/300)
+![Face Mask Detection System](/assets/facemaskdetection1.png)
  
 *Face Mask Detection is a desktop application built with Python and using Tensorflow machine learning. The objective is to identify if a person is wearing a mask or not by recognizing and detecting the presence of a face mask on the face. Also gives the percentage of people wearing a face mask and display an alert message if there is a presence or absence of a face mask. This system was created in 1 month in an agile team of 4 for a digital image processing subject.*
 > Technologies: Python, PyCharm, Qt5.
