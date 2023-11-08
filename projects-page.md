@@ -17,7 +17,7 @@
 *Face Mask Detection is a desktop application built with Python and using Tensorflow machine learning. The objective is to identify if a person is wearing a mask or not by recognizing and detecting the presence of a face mask on the face. Also gives the percentage of people wearing a face mask and display an alert message if there is a presence or absence of a face mask. This system was created in 1 month in an agile team of 4 for a digital image processing subject.*
 > Technologies: Python, PyCharm, Qt5.
 
-![Video](https://img.shields.io/badge/Presentation-7030A0.svg?style=for-the-badge&logo=YouTube&logoColor=white) [![GitHub](https://img.shields.io/badge/Code-7030A0.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aafiqah/face_mask_detection)
+[![Video](https://img.shields.io/badge/Presentation-7030A0.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://drive.google.com/file/d/1_M2UD1PIJg3O9dg8N56BeRFygEoM_RGa/view?usp=sharing) [![GitHub](https://img.shields.io/badge/Code-7030A0.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aafiqah/face_mask_detection)
 
 
 ## 3. Class Attendance Using Face Recognition System 
