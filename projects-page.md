@@ -27,4 +27,4 @@
 *Class attendance is a system that helps institutions manage student attendance leads to taking students’ attendance using face recognition techniques. Also, this system provides a sending notification of students’ attendance to their guardians through WhatsApp. Successfully designed and executed a class attendance system as an solo project in 4 months for a diploma final year project (fyp).*
 > Technologies: Java, MySQL, NetBeans, phpMyAdmin.
 
-| ![Video](https://img.shields.io/badge/Presentation-7030A0.svg?style=for-the-badge&logo=YouTube&logoColor=white) [![GitHub](https://img.shields.io/badge/Code-7030A0.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aafiqah/class_attendance) |
+| [![GitHub](https://img.shields.io/badge/Code-7030A0.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aafiqah/class_attendance) ![Execute File](https://img.shields.io/badge/Download%20EXE-7030A0.svg?style=for-the-badge&logo=firefox&logoColor=white) |
